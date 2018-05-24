@@ -17,14 +17,14 @@ body {
 	font-weight: 300px;
 }
 
-#top-level {
+#toplevel {
 	font-size: 20px !important;
 	font-weight: bold;
 	color: #FC4A1A;
 	line-height: 0.5 !important;
 }
 
-#main-list {
+#mainlist {
 	border-left: 4px solid #FC4A14;
 	border-right: 4px solid #FC4A14;
 	margin-left: 3em;
@@ -33,6 +33,6 @@ body {
 	background-color: rgba(0, 0, 0, 0.5);
 }
 
-#sub-list {
+#sublist {
 	color: rgba(255,255,255,0.65);
 }
