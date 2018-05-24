@@ -4,12 +4,6 @@
 	font-weight: bold;
 }
 
-#listtext {
-	color: #FC4A1A;
-	font-family: Courier New, monospace;
-	font-weight: bold;
-}
-
 ul {
 	list-style-type: none;
 	margin: 0;
@@ -23,23 +17,18 @@ li {
 	width: 33.33%;
 	line-height: 4em;
 	font-size: 25px;
+	color: #FC4A1A !important;
+	font-family: Courier New, monospace;
+	font-weight: bold;
 }
 
 li:hover {
 	background-color: rgba(252, 74, 26, 0.5);
 }
 
-#table {
-	display: table;
-	margin: -10px auto;
-	font-size: 22px;
-	text-align: center !important;
-}
-
 body {
 	font-family: Courier New, monospace;
 	font-size: 14px;
-	line-height 1.5;
 	color: rgba(255, 255, 255, 0.65);
 	background-color: #233237;
 	margin: 0px;
