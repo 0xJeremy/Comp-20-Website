@@ -1,14 +1,14 @@
 header {
-	font-family: Tahoma;
+	font-family: Courier New, monospace;
 	font-size: 30px;
-	font-weight: 300;
+	font-weight: bold;
 	color: #FC4A1A;
 	text-align: center;
 	margin-bottom: 12px;
 }
 
 body {
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: Courier New, monospace;
 	font-size: 14px;
 	line-height: 1.5;
 	color: #DFDCE3;
@@ -19,7 +19,7 @@ body {
 
 #top-level {
 	font-size: 20px !important;
-	font-weight: 300 !important;
+	font-weight: bold;
 	color: #FC4A1A;
 	line-height: 0.5 !important;
 }
