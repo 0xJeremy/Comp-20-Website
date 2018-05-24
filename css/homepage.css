@@ -4,6 +4,24 @@
 	font-weight: bold;
 }
 
+#hometext {
+	color: #FC4A1A;
+	font-family: Courier New, monospace;
+	font-weight: bold;
+}
+
+#resumetext {
+	color: #FC4A1A;
+	font-family: Courier New, monospace;
+	font-weight: bold;
+}
+
+#biotext {
+	color: #FC4A1A;
+	font-family: Courier New, monospace;
+	font-weight: bold;
+}
+
 ul {
 	list-style-type: none;
 	margin: 0;
@@ -17,9 +35,6 @@ li {
 	width: 33.33%;
 	line-height: 4em;
 	font-size: 25px;
-	color: #FC4A1A !important;
-	font-family: Courier New, monospace;
-	font-weight: bold;
 }
 
 li:hover {
