@@ -1,6 +1,6 @@
 0xJeremy.github.io
 
-1. On this website, the only aspect that has not been implemented to satisfaction is the resume page. It is missing the navigation bar at the top present on the other two pages. This is because the formatting required for the navigation bar conflicted with the tags used for the resume list.
+1. Everything included in the spec has been implemented. The only aspect that has not been implemented to satisfaction is the resume page. It is missing the navigation bar at the top present on the other two pages. This is because the formatting required for the navigation bar conflicted with the tags used for the resume list.
 
 2. This assignment was done independently without collaboration or discussion.
 
